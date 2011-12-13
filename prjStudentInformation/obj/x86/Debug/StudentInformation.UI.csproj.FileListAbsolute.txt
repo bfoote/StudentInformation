@@ -1,0 +1,39 @@
+c:\users\student\documents\visual studio 2010\Projects\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.UI.exe
+c:\users\student\documents\visual studio 2010\Projects\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.UI.pdb
+c:\users\student\documents\visual studio 2010\Projects\slnStudentInformation\prjStudentInformation\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2010\Projects\slnStudentInformation\prjStudentInformation\obj\x86\Debug\StudentInformation.UI.Properties.Resources.resources
+c:\users\student\documents\visual studio 2010\Projects\slnStudentInformation\prjStudentInformation\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\student\documents\visual studio 2010\Projects\slnStudentInformation\prjStudentInformation\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\student\documents\visual studio 2010\Projects\slnStudentInformation\prjStudentInformation\obj\x86\Debug\StudentInformation.UI.exe
+c:\users\student\documents\visual studio 2010\Projects\slnStudentInformation\prjStudentInformation\obj\x86\Debug\StudentInformation.UI.pdb
+c:\users\student\documents\visual studio 2010\Projects\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.OB.dll
+c:\users\student\documents\visual studio 2010\Projects\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.OB.pdb
+c:\users\student\documents\visual studio 2010\Projects\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.DL.dll
+c:\users\student\documents\visual studio 2010\Projects\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.DL.pdb
+c:\users\student\documents\visual studio 2010\Projects\slnStudentInformation\prjStudentInformation\obj\x86\Debug\prjStudentInformation.frmStudentInformation.resources
+\\appdata2.fvtc.edu\userdata$\foote\My Documents\!21171 - Microsoft C#\slnStudentInformation\prjStudentInformation\obj\x86\Debug\StudentInformation.UI.exe
+\\appdata2.fvtc.edu\userdata$\foote\My Documents\!21171 - Microsoft C#\slnStudentInformation\prjStudentInformation\obj\x86\Debug\StudentInformation.UI.pdb
+\\appdata2.fvtc.edu\userdata$\foote\My Documents\!21171 - Microsoft C#\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.UI.exe
+\\appdata2.fvtc.edu\userdata$\foote\My Documents\!21171 - Microsoft C#\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.UI.pdb
+\\appdata2.fvtc.edu\userdata$\foote\My Documents\!21171 - Microsoft C#\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.OB.dll
+\\appdata2.fvtc.edu\userdata$\foote\My Documents\!21171 - Microsoft C#\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.DL.dll
+\\appdata2.fvtc.edu\userdata$\foote\My Documents\!21171 - Microsoft C#\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.OB.pdb
+\\appdata2.fvtc.edu\userdata$\foote\My Documents\!21171 - Microsoft C#\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.DL.pdb
+\\appdata2.fvtc.edu\userdata$\foote\My Documents\!21171 - Microsoft C#\slnStudentInformation\prjStudentInformation\obj\x86\Debug\ResolveAssemblyReference.cache
+\\appdata2.fvtc.edu\userdata$\foote\My Documents\!21171 - Microsoft C#\slnStudentInformation\prjStudentInformation\obj\x86\Debug\prjStudentInformation.frmStudentInformation.resources
+\\appdata2.fvtc.edu\userdata$\foote\My Documents\!21171 - Microsoft C#\slnStudentInformation\prjStudentInformation\obj\x86\Debug\StudentInformation.UI.Properties.Resources.resources
+\\appdata2.fvtc.edu\userdata$\foote\My Documents\!21171 - Microsoft C#\slnStudentInformation\prjStudentInformation\obj\x86\Debug\GenerateResource.read.1.tlog
+\\appdata2.fvtc.edu\userdata$\foote\My Documents\!21171 - Microsoft C#\slnStudentInformation\prjStudentInformation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brian\Documents\FVTC\C#\slnStudentInformation\prjStudentInformation\obj\x86\Debug\StudentInformation.UI.exe
+C:\Users\Brian\Documents\FVTC\C#\slnStudentInformation\prjStudentInformation\obj\x86\Debug\StudentInformation.UI.pdb
+C:\Users\Brian\Documents\FVTC\C#\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.UI.exe
+C:\Users\Brian\Documents\FVTC\C#\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.UI.pdb
+C:\Users\Brian\Documents\FVTC\C#\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.OB.dll
+C:\Users\Brian\Documents\FVTC\C#\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.DL.dll
+C:\Users\Brian\Documents\FVTC\C#\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.OB.pdb
+C:\Users\Brian\Documents\FVTC\C#\slnStudentInformation\prjStudentInformation\bin\Debug\StudentInformation.DL.pdb
+C:\Users\Brian\Documents\FVTC\C#\slnStudentInformation\prjStudentInformation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\FVTC\C#\slnStudentInformation\prjStudentInformation\obj\x86\Debug\prjStudentInformation.frmStudentInformation.resources
+C:\Users\Brian\Documents\FVTC\C#\slnStudentInformation\prjStudentInformation\obj\x86\Debug\StudentInformation.UI.Properties.Resources.resources
+C:\Users\Brian\Documents\FVTC\C#\slnStudentInformation\prjStudentInformation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brian\Documents\FVTC\C#\slnStudentInformation\prjStudentInformation\obj\x86\Debug\GenerateResource.write.1.tlog

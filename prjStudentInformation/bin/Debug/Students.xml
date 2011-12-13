@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CStudent>
+    <FirstName>Homer</FirstName>
+    <LastName>Simpson</LastName>
+    <Address1>
+      <AddressType>Permanent</AddressType>
+      <StAddress>123 Main St.</StAddress>
+      <City>Springfield</City>
+      <State>IL</State>
+      <ZIP>34566</ZIP>
+    </Address1>
+    <Address2>
+      <AddressType>Permanent</AddressType>
+    </Address2>
+    <Id>46b929ea-c052-4e32-ba45-eb0c894e7ed4</Id>
+    <GPA>3.45</GPA>
+    <StudentId>123456789</StudentId>
+    <Program>Programmer/Analyst</Program>
+  </CStudent>
+  <CStudent>
+    <FirstName>Homer</FirstName>
+    <LastName>Simpson</LastName>
+    <Address1>
+      <AddressType>Permanent</AddressType>
+      <StAddress>123 Main St.</StAddress>
+      <City>Springfield</City>
+      <State>IL</State>
+      <ZIP>34566</ZIP>
+    </Address1>
+    <Address2>
+      <AddressType>Permanent</AddressType>
+    </Address2>
+    <Id>46b929ea-c052-4e32-ba45-eb0c894e7ed4</Id>
+    <GPA>3.45</GPA>
+    <StudentId>123456789</StudentId>
+    <Program>Programmer/Analyst</Program>
+  </CStudent>
+  <CStudent>
+    <FirstName>Homer</FirstName>
+    <LastName>Simpson</LastName>
+    <Address1>
+      <AddressType>Permanent</AddressType>
+      <StAddress>123 Main St.</StAddress>
+      <City>Springfield</City>
+      <State>IL</State>
+      <ZIP>34566</ZIP>
+    </Address1>
+    <Address2>
+      <AddressType>Permanent</AddressType>
+    </Address2>
+    <Id>46b929ea-c052-4e32-ba45-eb0c894e7ed4</Id>
+    <GPA>3.45</GPA>
+    <StudentId>123456789</StudentId>
+    <Program>Programmer/Analyst</Program>
+  </CStudent>
+</ArrayOfCStudent>
